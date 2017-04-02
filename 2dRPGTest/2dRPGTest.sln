@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dRPGTest", "Assembly-CSharp.csproj", "{547707BA-2E48-0C34-06F4-E1E96D034906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dRPGTest", "Assembly-CSharp-Editor.csproj", "{1FDDBD1D-85E6-8F7B-DAE9-D54C90A9721F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547707BA-2E48-0C34-06F4-E1E96D034906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547707BA-2E48-0C34-06F4-E1E96D034906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547707BA-2E48-0C34-06F4-E1E96D034906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547707BA-2E48-0C34-06F4-E1E96D034906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDDBD1D-85E6-8F7B-DAE9-D54C90A9721F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDDBD1D-85E6-8F7B-DAE9-D54C90A9721F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDDBD1D-85E6-8F7B-DAE9-D54C90A9721F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDDBD1D-85E6-8F7B-DAE9-D54C90A9721F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
